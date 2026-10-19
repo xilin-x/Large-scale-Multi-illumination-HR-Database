@@ -36,11 +36,13 @@ Lin Xi (xilin1991@buaa.edu.cn), School of Automation Science and Electrical Engi
 
 ## 4.Download
 
-* BUAA-MIHR database is released to universities and research institutes for research purpose only.
+* BUAA-MIHR database is released to universities and research institutes for research purposes only.
 
-* Note that please contact xilin1991@buaa.edu.cn for requests using an official email address (that is, university or institute email address, and non-official email addresses such as Gmail and 163 are not acceptable). When we receive your reply, we would provide the download link to you.
+* Please sign [MIHR Release Agreement.pdf](https://github.com/xilin-x/Large-scale-Multi-illumination-HR-Database/blob/7e0fe4beecfa19d1d9247428a3b1e549aaee52b4/docs/MIHR%20Release%20Agreement.pdf) and send the signed copy to xilin1991@buaa.edu.cn using your official university or institute email address. Once we receive it, we will provide you with the download link.
 
-* Download BUAA-MIHR database in [Baidu Pan](https://pan.baidu.com/s/1SDhPdx3_Cav65LyBMpN-sA) or [OneDrive](https://1drv.ms/f/c/05b6df5b859ecdde/Qt7NnoVb37YggAWEGgAAAAAAjPUJciP1vODR-A).
+* Note that please contact xilin1991@buaa.edu.cn for requests using an official email address (that is, a university or institute email address, and non-official email addresses such as Gmail and 163 are not acceptable). When we receive your reply, we will provide the download link to you.
+
+* Download the BUAA-MIHR database from [Baidu Pan](https://pan.baidu.com/s/1SDhPdx3_Cav65LyBMpN-sA) or [OneDrive](https://1drv.ms/f/c/05b6df5b859ecdde/Qt7NnoVb37YggAWEGgAAAAAAjPUJciP1vODR-A).
 
 * By using the BUAA-MIHR database, you are recommended to cite the paper.
 
